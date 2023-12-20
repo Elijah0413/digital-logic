@@ -15,9 +15,9 @@
 
 
 <details>
- <summary><h2>🔢 Chapter 2: Number Systems and Codes</h2>
- <h3><p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18TJOQ_C7wFvegAbG2tknAXMwtGFN2SVmQA&usqp=CAU" /></p>
- </h3></summary>
+ <summary><h2>🔢 Chapter 2: Number Systems and Codes
+ <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18TJOQ_C7wFvegAbG2tknAXMwtGFN2SVmQA&usqp=CAU" /></p>
+ </h2></summary>
 Numbers are the language of computers, and this chapter delves into the various number systems and codes they use. From the familiar decimal system to the binary language that computers speak, it's like deciphering a secret code that unlocks the power of computation. 🕵️‍♂️
 </details>
 
