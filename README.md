@@ -1,4 +1,4 @@
-# digital-logic (^///^)(*/ω＼*)😆
+# digital-logic (^///^)(*/ω＼*)😆💪
 
 
 <header>
