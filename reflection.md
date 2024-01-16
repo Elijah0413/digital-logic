@@ -1,5 +1,5 @@
 # Digital Logic
-All microprocessor-based systems, including those in computers, robotics, cars, and industrial control systems, are built on digital electronics. In addition to giving students an extensive review of numerous crucial ideas, elements, and techniques, this course exposes them to digital electronics. The most recent information on digital fundamentals from basic concepts to programmable logic devices will be taught to students. Practical experience with the simulator software, real devices, and circuits covered in class is provided by laboratory experiments.
+All microprocessor-based systems, from computers to robotics, cars, and industrial control systems, are rooted in digital electronics. 🌐🤖 This course not only provides students with a comprehensive overview of essential concepts and techniques but also immerses them in the realm of digital electronics. 🛠️💻 Students will learn the latest in digital fundamentals, from basic principles to programmable logic devices. 🧠 Hands-on experience with simulator software, real devices, and class-covered circuits is gained through engaging laboratory experiments. 🔍🔧
 
 
 ## Assignment 
@@ -18,4 +18,4 @@ The result shows as below
 
 ## Reflection
   
-Studying digital logic enhanced my understanding of binary systems and circuit design, providing a foundation for logical problem-solving in computer science. The course's focus on Boolean algebra and gate-level operations has equipped me with essential skills for designing and analyzing digital circuits.
+Studying digital logic 🧠 enhanced my understanding of binary systems and circuit design, laying the groundwork for logical problem-solving in computer science. 🖥️ The course's emphasis on Boolean algebra and gate-level operations has equipped me with essential skills for designing and analyzing digital circuits. 🔍💡
